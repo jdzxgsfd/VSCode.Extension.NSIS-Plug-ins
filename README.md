@@ -1,0 +1,1 @@
+# VSCode.Extension.NSIS-Plug-ins
